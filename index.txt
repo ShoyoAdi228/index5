@@ -1,0 +1,28 @@
+<html>
+    <body>
+        <title style="text-align:center;">Wallpaper HUB</title>
+                   <H1 style="color:dark blue;text-align:center;font-size:200%;font-family:Garamond;">WALLPAPERS</H1>
+
+              <p style="text-align:center;"><a href="https://unsplash.com/s/photos/neon-abstract">Alternate sites for Wallpaper</a></p>
+        <p style="text-align:center;"><i>Download the best HD and Ultra HD Wallpapers for free.
+     Use them as wallpapers for your mobile or desktop screens,Find free HD wallpapers for your
+      desktop, Mac, Windows or Android device.</i></p>
+<ol>
+    <!--This is images entering area for program-->
+    
+    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\spider.jpg" height="200px" width="400px"> </li>
+       <button>Download</button>
+    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\logo.jpg" height="200px" width="400px"></li>
+       <button>Download</button>
+    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\wallpaperflare.com_wallpaper (4).jpg" height="200px" width="400px"></li>
+       <button>Download</button>
+    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\purple.jpeg" height="200px" width="400px"></li>
+      <button>Download</button>
+    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\12.jpg" height="200px" width="400px"></li>
+      <button>Download</button>
+    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\3.jpg" height="200px" width="400px"></li>
+      <button>Download</button>
+
+</ol>
+    </body>
+</html> 
